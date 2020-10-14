@@ -1,4 +1,4 @@
-# salary Prediction Project
+# Salary Prediction Project
 # Define the Problem
 Project Goal: The goal of this project is to examine a set of job postings with salaries and then predict salaries for a new set of job postings.
 
